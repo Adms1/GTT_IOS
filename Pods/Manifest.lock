@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (5.4.3)
+  - DropDown (2.3.13)
+  - IQKeyboardManager (6.5.6)
+  - MBProgressHUD (1.2.0)
+  - SDWebImage (4.4.8):
+    - SDWebImage/Core (= 4.4.8)
+  - SDWebImage/Core (4.4.8)
+  - SwiftyJSON (5.0.1)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - DropDown
+  - IQKeyboardManager
+  - MBProgressHUD
+  - SDWebImage (~> 4.4.6)
+  - SwiftyJSON
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DropDown
+    - IQKeyboardManager
+    - MBProgressHUD
+    - SDWebImage
+    - SwiftyJSON
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 9fe01e688ae7e2ad3eef411c83bc752a76f41abb
+
+COCOAPODS: 1.10.1
